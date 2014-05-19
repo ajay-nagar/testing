@@ -5,7 +5,7 @@ mysql_query("SET NAMES 'utf8'");
 ?>
 <table width="100%"  border="0">
   <tr>
-    <td align="center"><font size="4" color="#618919"> About The Book </font>
+    <td align="center"><font size="4" color="#618919"> About The Book test </font>
                           <hr color=#ffffff noshed></td>
   </tr>
 <?php
